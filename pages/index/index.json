@@ -1,3 +1,8 @@
 {
-  "usingComponents": {}
+  "usingComponents": {},
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 100,
+  "initialRenderingCache": "dynamic",
+  "navigationBarTitleText": "优购首页"
+ 
 }

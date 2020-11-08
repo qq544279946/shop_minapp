@@ -1,7 +1,3 @@
-<view>{{msg}}</view>
-<image bind:tap="test" src="../../img/1.jpg" id="my_img" data-data="123" />
 <view>
-  <view>1</view>
-  <view>2</view>
-  <view>3</view>
+  <text class="iconfont icon-wode"></text>
 </view>
